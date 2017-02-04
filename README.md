@@ -1,15 +1,16 @@
-# environment_setting
-softwares and tools I use on ubuntu
+## Environment_setting
 
 
-##Tools
+###Tools
 
-###[Janus](https://github.com/carlhuda/janus) for vim
+[Janus](https://github.com/carlhuda/janus) for vim
 
-### [zsh](https://github.com/robbyrussell/oh-my-zsh)
+[zsh](https://github.com/robbyrussell/oh-my-zsh)
 
-###[vim-go](https://github.com/fatih/vim-go)
+[vim-go](https://github.com/fatih/vim-go)
 
-###[tagbar](https://github.com/majutsushi/tagbar)
+[tagbar](https://github.com/majutsushi/tagbar)
 
-###[pathogen](https://github.com/tpope/vim-pathogen)
+[pathogen](https://github.com/tpope/vim-pathogen)
+
+[tmux-conf](https://github.com/tony/tmux-config)
