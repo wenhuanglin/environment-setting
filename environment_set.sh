@@ -17,3 +17,6 @@ git clone https://github.com/fatih/vim-go.git ~/.vim/bundle/vim-go
 
 #tagbar for vim using pathogen
 git clone git@github.com:majutsushi/tagbar.git ~/.vim/bundle/tagbar
+
+
+sudo apt-get install tmux
