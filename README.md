@@ -16,3 +16,5 @@
 
 [tmuxinator](https://github.com/tmuxinator/tmuxinator)
 [tmux-conf](https://github.com/tony/tmux-config)
+
+[ctop] for docker
